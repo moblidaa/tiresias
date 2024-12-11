@@ -1,4 +1,4 @@
-This Github will provide direct access to the data and code used to construct Tiresias: The Ancient Mediterranean Religions Source Database
+This repository will provide direct access to the data and code used to construct Tiresias: The Ancient Mediterranean Religions Source Database
 main site: https://tiresias.haifa.ac.il/
 
 Tiresias: The Ancient Mediterranean Religions Source Database provides access to references to ancient texts according to topic, mostly on religion, c. -800 BCE to 800 CE in the Mediterranean area. In many cases, direct access to full text and/or translation is also available. Topic tagging is based on existing subject indices from scholarly books, allowing highly detailed topic resolution. The site is in development, and currently includes about 22 million references keyed to 180,000 subjects.
