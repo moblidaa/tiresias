@@ -5,7 +5,7 @@ Tiresias: The Ancient Mediterranean Religions Source Database provides access to
 
 
 Currently, There are four types of searches by subject:
-For validated results, where the reference is tagged with the subject in more than one book. This is the default search, and retrieves also a list of all sub-subjects and secondary sources. It is possible to link directly to this search, for example: https://tiresias.haifa.ac.il/?subj=apollo
+For validated results, where the reference is tagged with the subject in more than one book. This is the default search, and retrieves also a list of all sub-subjects and secondary sources.
 For non-validated primary text results, where the reference is tagged with the subject only once, in one book.
 For secondary literature only, retrieves a list of all sub-subjects and secondary sources.
 Furthermore, it is possible to search by primary text reference.
