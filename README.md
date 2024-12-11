@@ -3,9 +3,15 @@ main site: https://tiresias.haifa.ac.il/
 
 The following files are included: 
 
-titlesa.csv - a list of ancient work titles included in the database, keyed to an identifying number and in most cases including also metadata on language and date. 
+	* titlesa.csv - a list of ancient work titles included in the database, keyed to an identifying number and in most cases including also metadata on language and date. 
 
-bookreferences2.csv - a list of modern books from which the indices were taken, keyed to an identifying number.
+	* bookreferences2.csv - a list of modern books from which the indices were taken, keyed to an identifying number.
+
+ 	* all_subjects - a folder containing the main database, with subjects listed by the first three letters (in order not to have tens of thousands of files).
+		these csvs include the following columns:
+			* 
+			
+	
 
 
 Tiresias: The Ancient Mediterranean Religions Source Database provides access to references to ancient texts according to topic, mostly on religion, c. -800 BCE to 800 CE in the Mediterranean area. In many cases, direct access to full text and/or translation is also available. Topic tagging is based on existing subject indices from scholarly books, allowing highly detailed topic resolution. The site is in development, and currently includes about 22 million references keyed to 180,000 subjects.
