@@ -9,7 +9,14 @@ The following files are included:
 
 * all_subjects - a folder containing the main database, with subjects listed by the first three letters (in order not to have tens of thousands of files).
 all_subjects csvs include the following columns:
-	*df
+
+  *C - ID for each line
+  *book bibliographic info - number of modern book from which the info was taken (keyed to bookreferences2.csv)
+  *page - page in modern book from which the info was taken
+  *ref - reference in ancient text
+  *subject_x - lemmatized and stemmed subject words
+  *subject_y - original subject as appearing in index
+  *number - ancient work number (keyed to titles.csv)
 			
 	
 
