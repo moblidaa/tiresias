@@ -2,7 +2,9 @@ This repository will provide direct access to the data and code used to construc
 main site: https://tiresias.haifa.ac.il/
 
 The following files are included: 
+
 titlesa.csv - a list of ancient work titles included in the database, keyed to an identifying number and in most cases including also metadata on language and date. 
+
 bookreferences2.csv - a list of modern books from which the indices were taken, keyed to an identifying number.
 
 
