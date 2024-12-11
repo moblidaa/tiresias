@@ -23,7 +23,7 @@ Total number of reference tags (validated and nonvalidated): 29,598,020
 Number of reference tags (validated): 20,425,010
 Number of subject tags: 224,385
 Number of ancient texts: 12,484
-Number of modern book indices: 761
+Number of modern book indices: 832
 
 The site is part of a digital humanities research project investigating innovative methods for text topic retrieval, conducted by Moshe Blidstein of the General History Department and the Haifa Center for Mediterranean History and Daphne Raban, the Department of Information & Knowledge Management, both at the University of Haifa.
 For information and suggestions, please contact mblidstei@univ.haifa.ac.il.
