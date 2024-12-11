@@ -3,12 +3,13 @@ main site: https://tiresias.haifa.ac.il/
 
 The following files are included: 
 
-	* titlesa.csv - a list of ancient work titles included in the database, keyed to an identifying number and in most cases including also metadata on language and date. 
+* titlesa.csv - a list of ancient work titles included in the database, keyed to an identifying number and in most cases including also metadata on language and date. 
 
-	* bookreferences2.csv - a list of modern books from which the indices were taken, keyed to an identifying number.
+* bookreferences2.csv - a list of modern books from which the indices were taken, keyed to an identifying number.
 
- 	* all_subjects - a folder containing the main database, with subjects listed by the first three letters (in order not to have tens of thousands of files).
-		these csvs include the following columns:
+* all_subjects - a folder containing the main database, with subjects listed by the first three letters (in order not to have tens of thousands of files).
+all_subjects csvs include the following columns:
+*
 			* 
 			
 	
