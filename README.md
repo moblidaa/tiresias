@@ -9,8 +9,7 @@ The following files are included:
 
 * all_subjects - a folder containing the main database, with subjects listed by the first three letters (in order not to have tens of thousands of files).
 all_subjects csvs include the following columns:
-*
-			* 
+	*df
 			
 	
 
